@@ -1,6 +1,6 @@
 # DL_onevarfunc
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lsDM9i9uyRtw4xxyBi55qUWWYnAZi8Qx?usp=sharing]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lsDM9i9uyRtw4xxyBi55qUWWYnAZi8Qx?usp=sharing)]
 
 Deep learning model for one variable real functions.
 
