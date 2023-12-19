@@ -1,4 +1,4 @@
-# DL_onevarfunc
+# Deep learning to model single variable functions
 
 <a target="_blank" href="https://colab.research.google.com/drive/1lsDM9i9uyRtw4xxyBi55qUWWYnAZi8Qx?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
